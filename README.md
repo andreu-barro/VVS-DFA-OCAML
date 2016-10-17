@@ -1,4 +1,4 @@
-# VVS-DFA-C
+# VVS-DFA-OCAML
 [![Build Status](https://travis-ci.org/andreu-barro/VVS-DFA-OCAML.svg?branch=master)](https://travis-ci.org/andreu-barro/VVS-DFA-OCAML)
 
 Práctica para la asignatura de Validación y Verificación Software.
