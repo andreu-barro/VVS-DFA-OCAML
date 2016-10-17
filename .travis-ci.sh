@@ -17,6 +17,6 @@ sudo apt-get install -qq ocaml ocaml-native-compilers camlp4-extra opam
 export OPAMYES=1
 opam init 
 opam install ${OPAM_DEPENDS}
-eval 'opam config env'
+eval `opam config env`
 #make
 #make test
